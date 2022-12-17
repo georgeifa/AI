@@ -1,2 +1,2 @@
 # AI
-repository for AI lesson at UNI
+repository for AI class at UNI
